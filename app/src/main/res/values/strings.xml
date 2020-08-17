@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ZKTest</string>
+    <string name="error3">Center your reflection in the circle on the thermometer above and tap scan again.</string>
+    <string name="error4_5">Move within 1 ft. - 2 ft. of the kiosk and tap scan again.</string>
+    <string name="error6_8_9">Center reflection in the circle above and tap scan again. If you continue to have issues, please contact staff for assistance.</string>
+    <string name="temperature">Temperature</string>
+    <string name="temperature_not_detected_3">A temperature was not detected. (3)</string>
+    <string name="move_close_to_the_kiosk_4">Move closer to the kiosk. (4)</string>
+    <string name="move_back_from_kiosk_5">Move back from the kiosk. (5)</string>
+    <string name="thermometer_startup_error_6">Thermometer start up error. (6)</string>
+    <string name="ambient_temp_too_high_8">Ambient temperature too high. (8)</string>
+    <string name="ambient_temp_too_low_9">Ambient temperature too low. (9)</string>
+    <string name="error_codes_not_matched">Error codes not matched.</string>
+    <string name="usb_ready">USB Ready</string>
+    <string name="usb_permission_not_granted">USB Permission not granted</string>
+    <string name="no_usb_connected">No USB connected</string>
+    <string name="usb_disconnected">USB disconnected</string>
+    <string name="usb_device_not_supported">USB device not supported</string>
+    <string name="OK">Ok</string>
+    <string name="error">Error</string>
+    <string name="unable_to_capture_temp">Unable to capture temperature from received data. Please try again by clicking the scan button.</string>
+    <string name="thermometer_is_not_connected">Thermometer device is not connected.Please check and try again.</string>
+</resources>
